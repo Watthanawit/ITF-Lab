@@ -1,5 +1,5 @@
-#ITF-Lab 2018
+# ITF-Lab 2018
 
-##Author
+## Author
 
-Watthanawit Mingchuea 61070205
+* Watthanawit Mingchuea 61070205
